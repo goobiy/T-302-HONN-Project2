@@ -1,2 +1,3 @@
 # T-302-HONN-Project2
-Working with microservices in system architecture.
+
+This project focuses on building a ordering system with event-driven microservice architecture
